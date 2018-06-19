@@ -2,6 +2,7 @@ import numpy as np
 from read_pksc import read_pksc
 from mpi4py import MPI
 from astropy.io import fits
+from parameters import *
 
 comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
