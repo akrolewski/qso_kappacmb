@@ -1,0 +1,41 @@
+# STRONG HTACCESS PROTECTION
+<Files ~ "^.*\.([Hh][Tt][Aa])">
+ order allow,deny
+ deny from all
+</Files>
+# DIRECTORY CUSTOMIZATION
+<IfModule mod_autoindex.c>
+# SET INDEX OPTIONS
+IndexOptions IgnoreCase FancyIndexing NameWidth=* DescriptionWidth=*
+# IGNORE THESE FILES
+IndexIgnore HEADER.html header.html footer.html favicon.ico .htaccess
+AddDescription "SDF header" .head
+AddDescription "Markdown link definition" .md
+AddDescription "URL link definition" .url
+AddDescription "CLASS cosmology parameters" class.ini
+AddDescription "2LPTic64 input" ic.param
+AddDescription "Time-dependent cosmological parameters" cosmology.tbl
+AddDescription "Rockstar configuration" rockstar.cfg
+AddDescription "Reduced mass function data" hist8_m200b
+AddDescription "SDF format m200b halo catalog" m200b_1
+AddDescription "SDF format halo catalog" halos_1
+AddDescription "SDF format light cone halo catalog" halos_lc000
+AddDescription "SDF header for GADGET format" gadget*.hdr
+AddDescription "SDF format halos" halos/ds*m200b
+AddDescription "Initial power spectrum" ds14_a.dat
+AddDescription "Initial power spectrum" _4096.dat
+AddDescription "power spectrum, 4096^3 FFT" _ps4096f1
+AddDescription "power spectrum, folded by 2" _ps4096f2
+AddDescription "power spectrum, folded by 4" _ps4096f4
+AddDescription "power spectrum, folded by 8" _ps4096f8
+AddDescription "power spectrum, 8192^3 FFT" _ps8192f1
+AddDescription "power spectrum, folded by 2" _ps8192f2
+AddDescription "power spectrum, folded by 4" _ps8192f4
+AddDescription "power spectrum, folded by 8" _ps8192f8
+AddDescription "SDF format light cone" ds14_a_lc000
+AddDescription "8000 Mpc/h, 10240^3 particles" ds14_a
+AddDescription "100 Mpc/h, 2048^3 particles" ds14_g_100_2048
+AddDescription "200 Mpc/h, 2048^3 particles" ds14_g_200_2048
+AddDescription "800 Mpc/h, 4096^3 particles" ds14_g_800_4096
+AddDescription "1600 Mpc/h, 4096^3 particles" ds14_g_1600_4096
+</IfModule>

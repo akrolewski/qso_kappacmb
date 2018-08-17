@@ -1,0 +1,19 @@
+To cite the Dark Sky simulations data release, please use:
+
+S. W. Skillman, M. S. Warren, M. J. Turk, R. H. Wechsler, D. E. Holz, and P. M.
+Sutter. Dark Sky Simulations: Early Data Release. arXiv:1407.2600, July 2014.
+URL http://arxiv.org/abs/1407.2600.
+
+@ARTICLE{skillman14,
+   author = {{Skillman}, S.~W. and {Warren}, M.~S. and {Turk}, M.~J. and 
+  {Wechsler}, R.~H. and {Holz}, D.~E. and {Sutter}, P.~M.},
+    title = "{Dark Sky Simulations: Early Data Release}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1407.2600},
+ keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
+     year = 2014,
+    month = jul,
+   adsurl = {http://adsabs.harvard.edu/abs/2014arXiv1407.2600S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}

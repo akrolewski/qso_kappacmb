@@ -1,0 +1,24 @@
+Running CLASS version v2.1.2 git v2.2.0-msw-3-g669a742
+Compiled Apr 10 2014 19:50:11
+Computing background
+ -> age = 13.758914 Gyr
+ -> conformal age = 14224.021315 Mpc
+Computing thermodynamics
+ -> recombination at z = 1088.954702
+    corresponding to conformal time = 282.070567 Mpc
+    with comoving sound horizon = 145.376714 Mpc
+    and angular diameter distance = 12.791312 Mpc
+ -> baryon drag stops at z = 1059.217330
+    corresponding to conformal time = 287.957303 Mpc
+    with comoving sound horizon rs = 148.043173 Mpc
+ -> reionization  at z = 11.089386
+    corresponding to conformal time = 4344.406610 Mpc
+Computing sources
+Computing primordial spectra (analytic spectrum)
+Computing non-linear matter power spectrum with Halofit (including update Takahashi et al. 2012 and Bird 2014)
+No harmonic space transfer functions to compute. Transfer module skipped.
+Computing unlensed linear spectra
+ -> sigma8=0.835034 (computed till k = 154.724 h/Mpc)
+No lensing requested. Lensing module skipped.
+Writing output files in ds14_g_100_2048_... 
+Application 5292792 resources: utime ~12s, stime ~0s, Rss ~12212, inblocks ~1788, outblocks ~10363

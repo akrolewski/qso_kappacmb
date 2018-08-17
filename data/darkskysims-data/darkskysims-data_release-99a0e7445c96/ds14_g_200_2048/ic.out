@@ -1,0 +1,1098 @@
+
+Version: 2LPTic64-1.0.0-5-ga48be8b Apr 13 2014 13:00:30.
+CORRECT_CIC defined, CICAlpha = 2.
+USE_COSMO defined.
+Running CLASS version v2.1.2 git v2.2.0-msw-3-g669a742
+Compiled Apr 10 2014 19:11:13
+Computing background
+ -> age = 13.758914 Gyr
+ -> conformal age = 14224.021315 Mpc
+MORTON_ID defined.
+found 222 pairs of values in input spectrum table
+
+Normalization of spectrum in file:  Sigma8 = 0.834849
+Normalization not adjusted
+
+
+allocated 128.125 Mbyte on Task 0
+
+allocated 128.125 Mbyte on Task 0
+
+allocated 128.125 Mbyte on Task 0
+
+allocated 128.125 Mbyte on Task 0
+
+allocated 128.125 Mbyte on Task 0
+
+allocated 128.125 Mbyte on Task 0
+
+allocated 128.125 Mbyte on Task 0
+
+allocated 128.125 Mbyte on Task 0
+
+allocated 128.125 Mbyte on Task 0
+Task=0 Local_nx=4
+Task=1 Local_nx=4
+Task=2 Local_nx=4
+Task=3 Local_nx=4
+Task=4 Local_nx=4
+Task=5 Local_nx=4
+Task=6 Local_nx=4
+Task=7 Local_nx=4
+Task=8 Local_nx=4
+Task=9 Local_nx=4
+Task=10 Local_nx=4
+Task=11 Local_nx=4
+Task=12 Local_nx=4
+Task=13 Local_nx=4
+Task=14 Local_nx=4
+Task=15 Local_nx=4
+Task=16 Local_nx=4
+Task=17 Local_nx=4
+Task=18 Local_nx=4
+Task=19 Local_nx=4
+Task=20 Local_nx=4
+Task=21 Local_nx=4
+Task=22 Local_nx=4
+Task=23 Local_nx=4
+Task=24 Local_nx=4
+Task=25 Local_nx=4
+Task=26 Local_nx=4
+Task=27 Local_nx=4
+Task=28 Local_nx=4
+Task=29 Local_nx=4
+Task=30 Local_nx=4
+Task=31 Local_nx=4
+Task=32 Local_nx=4
+Task=33 Local_nx=4
+Task=34 Local_nx=4
+Task=35 Local_nx=4
+Task=36 Local_nx=4
+Task=37 Local_nx=4
+Task=38 Local_nx=4
+Task=39 Local_nx=4
+Task=40 Local_nx=4
+Task=41 Local_nx=4
+Task=42 Local_nx=4
+Task=43 Local_nx=4
+Task=44 Local_nx=4
+Task=45 Local_nx=4
+Task=46 Local_nx=4
+Task=47 Local_nx=4
+Task=48 Local_nx=4
+Task=49 Local_nx=4
+Task=50 Local_nx=4
+Task=51 Local_nx=4
+Task=52 Local_nx=4
+Task=53 Local_nx=4
+Task=54 Local_nx=4
+Task=55 Local_nx=4
+Task=56 Local_nx=4
+Task=57 Local_nx=4
+Task=58 Local_nx=4
+Task=59 Local_nx=4
+Task=60 Local_nx=4
+Task=61 Local_nx=4
+Task=62 Local_nx=4
+Task=63 Local_nx=4
+Task=64 Local_nx=4
+Task=65 Local_nx=4
+Task=66 Local_nx=4
+Task=67 Local_nx=4
+Task=68 Local_nx=4
+Task=69 Local_nx=4
+Task=70 Local_nx=4
+Task=71 Local_nx=4
+Task=72 Local_nx=4
+Task=73 Local_nx=4
+Task=74 Local_nx=4
+Task=75 Local_nx=4
+Task=76 Local_nx=4
+Task=77 Local_nx=4
+Task=78 Local_nx=4
+Task=79 Local_nx=4
+Task=80 Local_nx=4
+Task=81 Local_nx=4
+Task=82 Local_nx=4
+Task=83 Local_nx=4
+Task=84 Local_nx=4
+Task=85 Local_nx=4
+Task=86 Local_nx=4
+Task=87 Local_nx=4
+Task=88 Local_nx=4
+Task=89 Local_nx=4
+Task=90 Local_nx=4
+Task=91 Local_nx=4
+Task=92 Local_nx=4
+Task=93 Local_nx=4
+Task=94 Local_nx=4
+Task=95 Local_nx=4
+Task=96 Local_nx=4
+Task=97 Local_nx=4
+Task=98 Local_nx=4
+Task=99 Local_nx=4
+Task=100 Local_nx=4
+Task=101 Local_nx=4
+Task=102 Local_nx=4
+Task=103 Local_nx=4
+Task=104 Local_nx=4
+Task=105 Local_nx=4
+Task=106 Local_nx=4
+Task=107 Local_nx=4
+Task=108 Local_nx=4
+Task=109 Local_nx=4
+Task=110 Local_nx=4
+Task=111 Local_nx=4
+Task=112 Local_nx=4
+Task=113 Local_nx=4
+Task=114 Local_nx=4
+Task=115 Local_nx=4
+Task=116 Local_nx=4
+Task=117 Local_nx=4
+Task=118 Local_nx=4
+Task=119 Local_nx=4
+Task=120 Local_nx=4
+Task=121 Local_nx=4
+Task=122 Local_nx=4
+Task=123 Local_nx=4
+Task=124 Local_nx=4
+Task=125 Local_nx=4
+Task=126 Local_nx=4
+Task=127 Local_nx=4
+Task=128 Local_nx=4
+Task=129 Local_nx=4
+Task=130 Local_nx=4
+Task=131 Local_nx=4
+Task=132 Local_nx=4
+Task=133 Local_nx=4
+Task=134 Local_nx=4
+Task=135 Local_nx=4
+Task=136 Local_nx=4
+Task=137 Local_nx=4
+Task=138 Local_nx=4
+Task=139 Local_nx=4
+Task=140 Local_nx=4
+Task=141 Local_nx=4
+Task=142 Local_nx=4
+Task=143 Local_nx=4
+Task=144 Local_nx=4
+Task=145 Local_nx=4
+Task=146 Local_nx=4
+Task=147 Local_nx=4
+Task=148 Local_nx=4
+Task=149 Local_nx=4
+Task=150 Local_nx=4
+Task=151 Local_nx=4
+Task=152 Local_nx=4
+Task=153 Local_nx=4
+Task=154 Local_nx=4
+Task=155 Local_nx=4
+Task=156 Local_nx=4
+Task=157 Local_nx=4
+Task=158 Local_nx=4
+Task=159 Local_nx=4
+Task=160 Local_nx=4
+Task=161 Local_nx=4
+Task=162 Local_nx=4
+Task=163 Local_nx=4
+Task=164 Local_nx=4
+Task=165 Local_nx=4
+Task=166 Local_nx=4
+Task=167 Local_nx=4
+Task=168 Local_nx=4
+Task=169 Local_nx=4
+Task=170 Local_nx=4
+Task=171 Local_nx=4
+Task=172 Local_nx=4
+Task=173 Local_nx=4
+Task=174 Local_nx=4
+Task=175 Local_nx=4
+Task=176 Local_nx=4
+Task=177 Local_nx=4
+Task=178 Local_nx=4
+Task=179 Local_nx=4
+Task=180 Local_nx=4
+Task=181 Local_nx=4
+Task=182 Local_nx=4
+Task=183 Local_nx=4
+Task=184 Local_nx=4
+Task=185 Local_nx=4
+Task=186 Local_nx=4
+Task=187 Local_nx=4
+Task=188 Local_nx=4
+Task=189 Local_nx=4
+Task=190 Local_nx=4
+Task=191 Local_nx=4
+Task=192 Local_nx=4
+Task=193 Local_nx=4
+Task=194 Local_nx=4
+Task=195 Local_nx=4
+Task=196 Local_nx=4
+Task=197 Local_nx=4
+Task=198 Local_nx=4
+Task=199 Local_nx=4
+Task=200 Local_nx=4
+Task=201 Local_nx=4
+Task=202 Local_nx=4
+Task=203 Local_nx=4
+Task=204 Local_nx=4
+Task=205 Local_nx=4
+Task=206 Local_nx=4
+Task=207 Local_nx=4
+Task=208 Local_nx=4
+Task=209 Local_nx=4
+Task=210 Local_nx=4
+Task=211 Local_nx=4
+Task=212 Local_nx=4
+Task=213 Local_nx=4
+Task=214 Local_nx=4
+Task=215 Local_nx=4
+Task=216 Local_nx=4
+Task=217 Local_nx=4
+Task=218 Local_nx=4
+Task=219 Local_nx=4
+Task=220 Local_nx=4
+Task=221 Local_nx=4
+Task=222 Local_nx=4
+Task=223 Local_nx=4
+Task=224 Local_nx=4
+Task=225 Local_nx=4
+Task=226 Local_nx=4
+Task=227 Local_nx=4
+Task=228 Local_nx=4
+Task=229 Local_nx=4
+Task=230 Local_nx=4
+Task=231 Local_nx=4
+Task=232 Local_nx=4
+Task=233 Local_nx=4
+Task=234 Local_nx=4
+Task=235 Local_nx=4
+Task=236 Local_nx=4
+Task=237 Local_nx=4
+Task=238 Local_nx=4
+Task=239 Local_nx=4
+Task=240 Local_nx=4
+Task=241 Local_nx=4
+Task=242 Local_nx=4
+Task=243 Local_nx=4
+Task=244 Local_nx=4
+Task=245 Local_nx=4
+Task=246 Local_nx=4
+Task=247 Local_nx=4
+Task=248 Local_nx=4
+Task=249 Local_nx=4
+Task=250 Local_nx=4
+Task=251 Local_nx=4
+Task=252 Local_nx=4
+Task=253 Local_nx=4
+Task=254 Local_nx=4
+Task=255 Local_nx=4
+Task=256 Local_nx=4
+Task=257 Local_nx=4
+Task=258 Local_nx=4
+Task=259 Local_nx=4
+Task=260 Local_nx=4
+Task=261 Local_nx=4
+Task=262 Local_nx=4
+Task=263 Local_nx=4
+Task=264 Local_nx=4
+Task=265 Local_nx=4
+Task=266 Local_nx=4
+Task=267 Local_nx=4
+Task=268 Local_nx=4
+Task=269 Local_nx=4
+Task=270 Local_nx=4
+Task=271 Local_nx=4
+Task=272 Local_nx=4
+Task=273 Local_nx=4
+Task=274 Local_nx=4
+Task=275 Local_nx=4
+Task=276 Local_nx=4
+Task=277 Local_nx=4
+Task=278 Local_nx=4
+Task=279 Local_nx=4
+Task=280 Local_nx=4
+Task=281 Local_nx=4
+Task=282 Local_nx=4
+Task=283 Local_nx=4
+Task=284 Local_nx=4
+Task=285 Local_nx=4
+Task=286 Local_nx=4
+Task=287 Local_nx=4
+Task=288 Local_nx=4
+Task=289 Local_nx=4
+Task=290 Local_nx=4
+Task=291 Local_nx=4
+Task=292 Local_nx=4
+Task=293 Local_nx=4
+Task=294 Local_nx=4
+Task=295 Local_nx=4
+Task=296 Local_nx=4
+Task=297 Local_nx=4
+Task=298 Local_nx=4
+Task=299 Local_nx=4
+Task=300 Local_nx=4
+Task=301 Local_nx=4
+Task=302 Local_nx=4
+Task=303 Local_nx=4
+Task=304 Local_nx=4
+Task=305 Local_nx=4
+Task=306 Local_nx=4
+Task=307 Local_nx=4
+Task=308 Local_nx=4
+Task=309 Local_nx=4
+Task=310 Local_nx=4
+Task=311 Local_nx=4
+Task=312 Local_nx=4
+Task=313 Local_nx=4
+Task=314 Local_nx=4
+Task=315 Local_nx=4
+Task=316 Local_nx=4
+Task=317 Local_nx=4
+Task=318 Local_nx=4
+Task=319 Local_nx=4
+Task=320 Local_nx=4
+Task=321 Local_nx=4
+Task=322 Local_nx=4
+Task=323 Local_nx=4
+Task=324 Local_nx=4
+Task=325 Local_nx=4
+Task=326 Local_nx=4
+Task=327 Local_nx=4
+Task=328 Local_nx=4
+Task=329 Local_nx=4
+Task=330 Local_nx=4
+Task=331 Local_nx=4
+Task=332 Local_nx=4
+Task=333 Local_nx=4
+Task=334 Local_nx=4
+Task=335 Local_nx=4
+Task=336 Local_nx=4
+Task=337 Local_nx=4
+Task=338 Local_nx=4
+Task=339 Local_nx=4
+Task=340 Local_nx=4
+Task=341 Local_nx=4
+Task=342 Local_nx=4
+Task=343 Local_nx=4
+Task=344 Local_nx=4
+Task=345 Local_nx=4
+Task=346 Local_nx=4
+Task=347 Local_nx=4
+Task=348 Local_nx=4
+Task=349 Local_nx=4
+Task=350 Local_nx=4
+Task=351 Local_nx=4
+Task=352 Local_nx=4
+Task=353 Local_nx=4
+Task=354 Local_nx=4
+Task=355 Local_nx=4
+Task=356 Local_nx=4
+Task=357 Local_nx=4
+Task=358 Local_nx=4
+Task=359 Local_nx=4
+Task=360 Local_nx=4
+Task=361 Local_nx=4
+Task=362 Local_nx=4
+Task=363 Local_nx=4
+Task=364 Local_nx=4
+Task=365 Local_nx=4
+Task=366 Local_nx=4
+Task=367 Local_nx=4
+Task=368 Local_nx=4
+Task=369 Local_nx=4
+Task=370 Local_nx=4
+Task=371 Local_nx=4
+Task=372 Local_nx=4
+Task=373 Local_nx=4
+Task=374 Local_nx=4
+Task=375 Local_nx=4
+Task=376 Local_nx=4
+Task=377 Local_nx=4
+Task=378 Local_nx=4
+Task=379 Local_nx=4
+Task=380 Local_nx=4
+Task=381 Local_nx=4
+Task=382 Local_nx=4
+Task=383 Local_nx=4
+Task=384 Local_nx=4
+Task=385 Local_nx=4
+Task=386 Local_nx=4
+Task=387 Local_nx=4
+Task=388 Local_nx=4
+Task=389 Local_nx=4
+Task=390 Local_nx=4
+Task=391 Local_nx=4
+Task=392 Local_nx=4
+Task=393 Local_nx=4
+Task=394 Local_nx=4
+Task=395 Local_nx=4
+Task=396 Local_nx=4
+Task=397 Local_nx=4
+Task=398 Local_nx=4
+Task=399 Local_nx=4
+Task=400 Local_nx=4
+Task=401 Local_nx=4
+Task=402 Local_nx=4
+Task=403 Local_nx=4
+Task=404 Local_nx=4
+Task=405 Local_nx=4
+Task=406 Local_nx=4
+Task=407 Local_nx=4
+Task=408 Local_nx=4
+Task=409 Local_nx=4
+Task=410 Local_nx=4
+Task=411 Local_nx=4
+Task=412 Local_nx=4
+Task=413 Local_nx=4
+Task=414 Local_nx=4
+Task=415 Local_nx=4
+Task=416 Local_nx=4
+Task=417 Local_nx=4
+Task=418 Local_nx=4
+Task=419 Local_nx=4
+Task=420 Local_nx=4
+Task=421 Local_nx=4
+Task=422 Local_nx=4
+Task=423 Local_nx=4
+Task=424 Local_nx=4
+Task=425 Local_nx=4
+Task=426 Local_nx=4
+Task=427 Local_nx=4
+Task=428 Local_nx=4
+Task=429 Local_nx=4
+Task=430 Local_nx=4
+Task=431 Local_nx=4
+Task=432 Local_nx=4
+Task=433 Local_nx=4
+Task=434 Local_nx=4
+Task=435 Local_nx=4
+Task=436 Local_nx=4
+Task=437 Local_nx=4
+Task=438 Local_nx=4
+Task=439 Local_nx=4
+Task=440 Local_nx=4
+Task=441 Local_nx=4
+Task=442 Local_nx=4
+Task=443 Local_nx=4
+Task=444 Local_nx=4
+Task=445 Local_nx=4
+Task=446 Local_nx=4
+Task=447 Local_nx=4
+Task=448 Local_nx=4
+Task=449 Local_nx=4
+Task=450 Local_nx=4
+Task=451 Local_nx=4
+Task=452 Local_nx=4
+Task=453 Local_nx=4
+Task=454 Local_nx=4
+Task=455 Local_nx=4
+Task=456 Local_nx=4
+Task=457 Local_nx=4
+Task=458 Local_nx=4
+Task=459 Local_nx=4
+Task=460 Local_nx=4
+Task=461 Local_nx=4
+Task=462 Local_nx=4
+Task=463 Local_nx=4
+Task=464 Local_nx=4
+Task=465 Local_nx=4
+Task=466 Local_nx=4
+Task=467 Local_nx=4
+Task=468 Local_nx=4
+Task=469 Local_nx=4
+Task=470 Local_nx=4
+Task=471 Local_nx=4
+Task=472 Local_nx=4
+Task=473 Local_nx=4
+Task=474 Local_nx=4
+Task=475 Local_nx=4
+Task=476 Local_nx=4
+Task=477 Local_nx=4
+Task=478 Local_nx=4
+Task=479 Local_nx=4
+Task=480 Local_nx=4
+Task=481 Local_nx=4
+Task=482 Local_nx=4
+Task=483 Local_nx=4
+Task=484 Local_nx=4
+Task=485 Local_nx=4
+Task=486 Local_nx=4
+Task=487 Local_nx=4
+Task=488 Local_nx=4
+Task=489 Local_nx=4
+Task=490 Local_nx=4
+Task=491 Local_nx=4
+Task=492 Local_nx=4
+Task=493 Local_nx=4
+Task=494 Local_nx=4
+Task=495 Local_nx=4
+Task=496 Local_nx=4
+Task=497 Local_nx=4
+Task=498 Local_nx=4
+Task=499 Local_nx=4
+Task=500 Local_nx=4
+Task=501 Local_nx=4
+Task=502 Local_nx=4
+Task=503 Local_nx=4
+Task=504 Local_nx=4
+Task=505 Local_nx=4
+Task=506 Local_nx=4
+Task=507 Local_nx=4
+Task=508 Local_nx=4
+Task=509 Local_nx=4
+Task=510 Local_nx=4
+Task=511 Local_nx=4
+
+start computing displacement fields...
+vel_prefac= 12.858, vel_prefac2= 25.7159,  hubble_a=209.785 fom=0.950562 f2om=1.90112 
+
+starting axes=3...
+Done Zeldovich.
+Fourier transforming displacement gradient 0...Done.
+Fourier transforming displacement gradient 1...Done.
+Fourier transforming displacement gradient 2...Done.
+Fourier transforming displacement gradient 3...Done.
+Fourier transforming displacement gradient 4...Done.
+Fourier transforming displacement gradient 5...Done.
+Fourier transforming second order source...Done.
+Fourier transforming displacements, axis 0.
+Fourier transforming displacements, axis 1.
+Fourier transforming displacements, axis 2.
+
+reading Lagrangian glass file...
+reading 'glass1.dat' with 1 particles
+
+Nglass= 1
+
+Calculating npart_Task...
+npart_Task done
+16777216 particles on task=0  (slabs=4)
+16777216 particles on task=1  (slabs=4)
+16777216 particles on task=2  (slabs=4)
+16777216 particles on task=3  (slabs=4)
+16777216 particles on task=4  (slabs=4)
+16777216 particles on task=5  (slabs=4)
+16777216 particles on task=6  (slabs=4)
+16777216 particles on task=7  (slabs=4)
+16777216 particles on task=8  (slabs=4)
+16777216 particles on task=9  (slabs=4)
+16777216 particles on task=10  (slabs=4)
+16777216 particles on task=11  (slabs=4)
+16777216 particles on task=12  (slabs=4)
+16777216 particles on task=13  (slabs=4)
+16777216 particles on task=14  (slabs=4)
+16777216 particles on task=15  (slabs=4)
+16777216 particles on task=16  (slabs=4)
+16777216 particles on task=17  (slabs=4)
+16777216 particles on task=18  (slabs=4)
+16777216 particles on task=19  (slabs=4)
+16777216 particles on task=20  (slabs=4)
+16777216 particles on task=21  (slabs=4)
+16777216 particles on task=22  (slabs=4)
+16777216 particles on task=23  (slabs=4)
+16777216 particles on task=24  (slabs=4)
+16777216 particles on task=25  (slabs=4)
+16777216 particles on task=26  (slabs=4)
+16777216 particles on task=27  (slabs=4)
+16777216 particles on task=28  (slabs=4)
+16777216 particles on task=29  (slabs=4)
+16777216 particles on task=30  (slabs=4)
+16777216 particles on task=31  (slabs=4)
+16777216 particles on task=32  (slabs=4)
+16777216 particles on task=33  (slabs=4)
+16777216 particles on task=34  (slabs=4)
+16777216 particles on task=35  (slabs=4)
+16777216 particles on task=36  (slabs=4)
+16777216 particles on task=37  (slabs=4)
+16777216 particles on task=38  (slabs=4)
+16777216 particles on task=39  (slabs=4)
+16777216 particles on task=40  (slabs=4)
+16777216 particles on task=41  (slabs=4)
+16777216 particles on task=42  (slabs=4)
+16777216 particles on task=43  (slabs=4)
+16777216 particles on task=44  (slabs=4)
+16777216 particles on task=45  (slabs=4)
+16777216 particles on task=46  (slabs=4)
+16777216 particles on task=47  (slabs=4)
+16777216 particles on task=48  (slabs=4)
+16777216 particles on task=49  (slabs=4)
+16777216 particles on task=50  (slabs=4)
+16777216 particles on task=51  (slabs=4)
+16777216 particles on task=52  (slabs=4)
+16777216 particles on task=53  (slabs=4)
+16777216 particles on task=54  (slabs=4)
+16777216 particles on task=55  (slabs=4)
+16777216 particles on task=56  (slabs=4)
+16777216 particles on task=57  (slabs=4)
+16777216 particles on task=58  (slabs=4)
+16777216 particles on task=59  (slabs=4)
+16777216 particles on task=60  (slabs=4)
+16777216 particles on task=61  (slabs=4)
+16777216 particles on task=62  (slabs=4)
+16777216 particles on task=63  (slabs=4)
+16777216 particles on task=64  (slabs=4)
+16777216 particles on task=65  (slabs=4)
+16777216 particles on task=66  (slabs=4)
+16777216 particles on task=67  (slabs=4)
+16777216 particles on task=68  (slabs=4)
+16777216 particles on task=69  (slabs=4)
+16777216 particles on task=70  (slabs=4)
+16777216 particles on task=71  (slabs=4)
+16777216 particles on task=72  (slabs=4)
+16777216 particles on task=73  (slabs=4)
+16777216 particles on task=74  (slabs=4)
+16777216 particles on task=75  (slabs=4)
+16777216 particles on task=76  (slabs=4)
+16777216 particles on task=77  (slabs=4)
+16777216 particles on task=78  (slabs=4)
+16777216 particles on task=79  (slabs=4)
+16777216 particles on task=80  (slabs=4)
+16777216 particles on task=81  (slabs=4)
+16777216 particles on task=82  (slabs=4)
+16777216 particles on task=83  (slabs=4)
+16777216 particles on task=84  (slabs=4)
+16777216 particles on task=85  (slabs=4)
+16777216 particles on task=86  (slabs=4)
+16777216 particles on task=87  (slabs=4)
+16777216 particles on task=88  (slabs=4)
+16777216 particles on task=89  (slabs=4)
+16777216 particles on task=90  (slabs=4)
+16777216 particles on task=91  (slabs=4)
+16777216 particles on task=92  (slabs=4)
+16777216 particles on task=93  (slabs=4)
+16777216 particles on task=94  (slabs=4)
+16777216 particles on task=95  (slabs=4)
+16777216 particles on task=96  (slabs=4)
+16777216 particles on task=97  (slabs=4)
+16777216 particles on task=98  (slabs=4)
+16777216 particles on task=99  (slabs=4)
+16777216 particles on task=100  (slabs=4)
+16777216 particles on task=101  (slabs=4)
+16777216 particles on task=102  (slabs=4)
+16777216 particles on task=103  (slabs=4)
+16777216 particles on task=104  (slabs=4)
+16777216 particles on task=105  (slabs=4)
+16777216 particles on task=106  (slabs=4)
+16777216 particles on task=107  (slabs=4)
+16777216 particles on task=108  (slabs=4)
+16777216 particles on task=109  (slabs=4)
+16777216 particles on task=110  (slabs=4)
+16777216 particles on task=111  (slabs=4)
+16777216 particles on task=112  (slabs=4)
+16777216 particles on task=113  (slabs=4)
+16777216 particles on task=114  (slabs=4)
+16777216 particles on task=115  (slabs=4)
+16777216 particles on task=116  (slabs=4)
+16777216 particles on task=117  (slabs=4)
+16777216 particles on task=118  (slabs=4)
+16777216 particles on task=119  (slabs=4)
+16777216 particles on task=120  (slabs=4)
+16777216 particles on task=121  (slabs=4)
+16777216 particles on task=122  (slabs=4)
+16777216 particles on task=123  (slabs=4)
+16777216 particles on task=124  (slabs=4)
+16777216 particles on task=125  (slabs=4)
+16777216 particles on task=126  (slabs=4)
+16777216 particles on task=127  (slabs=4)
+16777216 particles on task=128  (slabs=4)
+16777216 particles on task=129  (slabs=4)
+16777216 particles on task=130  (slabs=4)
+16777216 particles on task=131  (slabs=4)
+16777216 particles on task=132  (slabs=4)
+16777216 particles on task=133  (slabs=4)
+16777216 particles on task=134  (slabs=4)
+16777216 particles on task=135  (slabs=4)
+16777216 particles on task=136  (slabs=4)
+16777216 particles on task=137  (slabs=4)
+16777216 particles on task=138  (slabs=4)
+16777216 particles on task=139  (slabs=4)
+16777216 particles on task=140  (slabs=4)
+16777216 particles on task=141  (slabs=4)
+16777216 particles on task=142  (slabs=4)
+16777216 particles on task=143  (slabs=4)
+16777216 particles on task=144  (slabs=4)
+16777216 particles on task=145  (slabs=4)
+16777216 particles on task=146  (slabs=4)
+16777216 particles on task=147  (slabs=4)
+16777216 particles on task=148  (slabs=4)
+16777216 particles on task=149  (slabs=4)
+16777216 particles on task=150  (slabs=4)
+16777216 particles on task=151  (slabs=4)
+16777216 particles on task=152  (slabs=4)
+16777216 particles on task=153  (slabs=4)
+16777216 particles on task=154  (slabs=4)
+16777216 particles on task=155  (slabs=4)
+16777216 particles on task=156  (slabs=4)
+16777216 particles on task=157  (slabs=4)
+16777216 particles on task=158  (slabs=4)
+16777216 particles on task=159  (slabs=4)
+16777216 particles on task=160  (slabs=4)
+16777216 particles on task=161  (slabs=4)
+16777216 particles on task=162  (slabs=4)
+16777216 particles on task=163  (slabs=4)
+16777216 particles on task=164  (slabs=4)
+16777216 particles on task=165  (slabs=4)
+16777216 particles on task=166  (slabs=4)
+16777216 particles on task=167  (slabs=4)
+16777216 particles on task=168  (slabs=4)
+16777216 particles on task=169  (slabs=4)
+16777216 particles on task=170  (slabs=4)
+16777216 particles on task=171  (slabs=4)
+16777216 particles on task=172  (slabs=4)
+16777216 particles on task=173  (slabs=4)
+16777216 particles on task=174  (slabs=4)
+16777216 particles on task=175  (slabs=4)
+16777216 particles on task=176  (slabs=4)
+16777216 particles on task=177  (slabs=4)
+16777216 particles on task=178  (slabs=4)
+16777216 particles on task=179  (slabs=4)
+16777216 particles on task=180  (slabs=4)
+16777216 particles on task=181  (slabs=4)
+16777216 particles on task=182  (slabs=4)
+16777216 particles on task=183  (slabs=4)
+16777216 particles on task=184  (slabs=4)
+16777216 particles on task=185  (slabs=4)
+16777216 particles on task=186  (slabs=4)
+16777216 particles on task=187  (slabs=4)
+16777216 particles on task=188  (slabs=4)
+16777216 particles on task=189  (slabs=4)
+16777216 particles on task=190  (slabs=4)
+16777216 particles on task=191  (slabs=4)
+16777216 particles on task=192  (slabs=4)
+16777216 particles on task=193  (slabs=4)
+16777216 particles on task=194  (slabs=4)
+16777216 particles on task=195  (slabs=4)
+16777216 particles on task=196  (slabs=4)
+16777216 particles on task=197  (slabs=4)
+16777216 particles on task=198  (slabs=4)
+16777216 particles on task=199  (slabs=4)
+16777216 particles on task=200  (slabs=4)
+16777216 particles on task=201  (slabs=4)
+16777216 particles on task=202  (slabs=4)
+16777216 particles on task=203  (slabs=4)
+16777216 particles on task=204  (slabs=4)
+16777216 particles on task=205  (slabs=4)
+16777216 particles on task=206  (slabs=4)
+16777216 particles on task=207  (slabs=4)
+16777216 particles on task=208  (slabs=4)
+16777216 particles on task=209  (slabs=4)
+16777216 particles on task=210  (slabs=4)
+16777216 particles on task=211  (slabs=4)
+16777216 particles on task=212  (slabs=4)
+16777216 particles on task=213  (slabs=4)
+16777216 particles on task=214  (slabs=4)
+16777216 particles on task=215  (slabs=4)
+16777216 particles on task=216  (slabs=4)
+16777216 particles on task=217  (slabs=4)
+16777216 particles on task=218  (slabs=4)
+16777216 particles on task=219  (slabs=4)
+16777216 particles on task=220  (slabs=4)
+16777216 particles on task=221  (slabs=4)
+16777216 particles on task=222  (slabs=4)
+16777216 particles on task=223  (slabs=4)
+16777216 particles on task=224  (slabs=4)
+16777216 particles on task=225  (slabs=4)
+16777216 particles on task=226  (slabs=4)
+16777216 particles on task=227  (slabs=4)
+16777216 particles on task=228  (slabs=4)
+16777216 particles on task=229  (slabs=4)
+16777216 particles on task=230  (slabs=4)
+16777216 particles on task=231  (slabs=4)
+16777216 particles on task=232  (slabs=4)
+16777216 particles on task=233  (slabs=4)
+16777216 particles on task=234  (slabs=4)
+16777216 particles on task=235  (slabs=4)
+16777216 particles on task=236  (slabs=4)
+16777216 particles on task=237  (slabs=4)
+16777216 particles on task=238  (slabs=4)
+16777216 particles on task=239  (slabs=4)
+16777216 particles on task=240  (slabs=4)
+16777216 particles on task=241  (slabs=4)
+16777216 particles on task=242  (slabs=4)
+16777216 particles on task=243  (slabs=4)
+16777216 particles on task=244  (slabs=4)
+16777216 particles on task=245  (slabs=4)
+16777216 particles on task=246  (slabs=4)
+16777216 particles on task=247  (slabs=4)
+16777216 particles on task=248  (slabs=4)
+16777216 particles on task=249  (slabs=4)
+16777216 particles on task=250  (slabs=4)
+16777216 particles on task=251  (slabs=4)
+16777216 particles on task=252  (slabs=4)
+16777216 particles on task=253  (slabs=4)
+16777216 particles on task=254  (slabs=4)
+16777216 particles on task=255  (slabs=4)
+16777216 particles on task=256  (slabs=4)
+16777216 particles on task=257  (slabs=4)
+16777216 particles on task=258  (slabs=4)
+16777216 particles on task=259  (slabs=4)
+16777216 particles on task=260  (slabs=4)
+16777216 particles on task=261  (slabs=4)
+16777216 particles on task=262  (slabs=4)
+16777216 particles on task=263  (slabs=4)
+16777216 particles on task=264  (slabs=4)
+16777216 particles on task=265  (slabs=4)
+16777216 particles on task=266  (slabs=4)
+16777216 particles on task=267  (slabs=4)
+16777216 particles on task=268  (slabs=4)
+16777216 particles on task=269  (slabs=4)
+16777216 particles on task=270  (slabs=4)
+16777216 particles on task=271  (slabs=4)
+16777216 particles on task=272  (slabs=4)
+16777216 particles on task=273  (slabs=4)
+16777216 particles on task=274  (slabs=4)
+16777216 particles on task=275  (slabs=4)
+16777216 particles on task=276  (slabs=4)
+16777216 particles on task=277  (slabs=4)
+16777216 particles on task=278  (slabs=4)
+16777216 particles on task=279  (slabs=4)
+16777216 particles on task=280  (slabs=4)
+16777216 particles on task=281  (slabs=4)
+16777216 particles on task=282  (slabs=4)
+16777216 particles on task=283  (slabs=4)
+16777216 particles on task=284  (slabs=4)
+16777216 particles on task=285  (slabs=4)
+16777216 particles on task=286  (slabs=4)
+16777216 particles on task=287  (slabs=4)
+16777216 particles on task=288  (slabs=4)
+16777216 particles on task=289  (slabs=4)
+16777216 particles on task=290  (slabs=4)
+16777216 particles on task=291  (slabs=4)
+16777216 particles on task=292  (slabs=4)
+16777216 particles on task=293  (slabs=4)
+16777216 particles on task=294  (slabs=4)
+16777216 particles on task=295  (slabs=4)
+16777216 particles on task=296  (slabs=4)
+16777216 particles on task=297  (slabs=4)
+16777216 particles on task=298  (slabs=4)
+16777216 particles on task=299  (slabs=4)
+16777216 particles on task=300  (slabs=4)
+16777216 particles on task=301  (slabs=4)
+16777216 particles on task=302  (slabs=4)
+16777216 particles on task=303  (slabs=4)
+16777216 particles on task=304  (slabs=4)
+16777216 particles on task=305  (slabs=4)
+16777216 particles on task=306  (slabs=4)
+16777216 particles on task=307  (slabs=4)
+16777216 particles on task=308  (slabs=4)
+16777216 particles on task=309  (slabs=4)
+16777216 particles on task=310  (slabs=4)
+16777216 particles on task=311  (slabs=4)
+16777216 particles on task=312  (slabs=4)
+16777216 particles on task=313  (slabs=4)
+16777216 particles on task=314  (slabs=4)
+16777216 particles on task=315  (slabs=4)
+16777216 particles on task=316  (slabs=4)
+16777216 particles on task=317  (slabs=4)
+16777216 particles on task=318  (slabs=4)
+16777216 particles on task=319  (slabs=4)
+16777216 particles on task=320  (slabs=4)
+16777216 particles on task=321  (slabs=4)
+16777216 particles on task=322  (slabs=4)
+16777216 particles on task=323  (slabs=4)
+16777216 particles on task=324  (slabs=4)
+16777216 particles on task=325  (slabs=4)
+16777216 particles on task=326  (slabs=4)
+16777216 particles on task=327  (slabs=4)
+16777216 particles on task=328  (slabs=4)
+16777216 particles on task=329  (slabs=4)
+16777216 particles on task=330  (slabs=4)
+16777216 particles on task=331  (slabs=4)
+16777216 particles on task=332  (slabs=4)
+16777216 particles on task=333  (slabs=4)
+16777216 particles on task=334  (slabs=4)
+16777216 particles on task=335  (slabs=4)
+16777216 particles on task=336  (slabs=4)
+16777216 particles on task=337  (slabs=4)
+16777216 particles on task=338  (slabs=4)
+16777216 particles on task=339  (slabs=4)
+16777216 particles on task=340  (slabs=4)
+16777216 particles on task=341  (slabs=4)
+16777216 particles on task=342  (slabs=4)
+16777216 particles on task=343  (slabs=4)
+16777216 particles on task=344  (slabs=4)
+16777216 particles on task=345  (slabs=4)
+16777216 particles on task=346  (slabs=4)
+16777216 particles on task=347  (slabs=4)
+16777216 particles on task=348  (slabs=4)
+16777216 particles on task=349  (slabs=4)
+16777216 particles on task=350  (slabs=4)
+16777216 particles on task=351  (slabs=4)
+16777216 particles on task=352  (slabs=4)
+16777216 particles on task=353  (slabs=4)
+16777216 particles on task=354  (slabs=4)
+16777216 particles on task=355  (slabs=4)
+16777216 particles on task=356  (slabs=4)
+16777216 particles on task=357  (slabs=4)
+16777216 particles on task=358  (slabs=4)
+16777216 particles on task=359  (slabs=4)
+16777216 particles on task=360  (slabs=4)
+16777216 particles on task=361  (slabs=4)
+16777216 particles on task=362  (slabs=4)
+16777216 particles on task=363  (slabs=4)
+16777216 particles on task=364  (slabs=4)
+16777216 particles on task=365  (slabs=4)
+16777216 particles on task=366  (slabs=4)
+16777216 particles on task=367  (slabs=4)
+16777216 particles on task=368  (slabs=4)
+16777216 particles on task=369  (slabs=4)
+16777216 particles on task=370  (slabs=4)
+16777216 particles on task=371  (slabs=4)
+16777216 particles on task=372  (slabs=4)
+16777216 particles on task=373  (slabs=4)
+16777216 particles on task=374  (slabs=4)
+16777216 particles on task=375  (slabs=4)
+16777216 particles on task=376  (slabs=4)
+16777216 particles on task=377  (slabs=4)
+16777216 particles on task=378  (slabs=4)
+16777216 particles on task=379  (slabs=4)
+16777216 particles on task=380  (slabs=4)
+16777216 particles on task=381  (slabs=4)
+16777216 particles on task=382  (slabs=4)
+16777216 particles on task=383  (slabs=4)
+16777216 particles on task=384  (slabs=4)
+16777216 particles on task=385  (slabs=4)
+16777216 particles on task=386  (slabs=4)
+16777216 particles on task=387  (slabs=4)
+16777216 particles on task=388  (slabs=4)
+16777216 particles on task=389  (slabs=4)
+16777216 particles on task=390  (slabs=4)
+16777216 particles on task=391  (slabs=4)
+16777216 particles on task=392  (slabs=4)
+16777216 particles on task=393  (slabs=4)
+16777216 particles on task=394  (slabs=4)
+16777216 particles on task=395  (slabs=4)
+16777216 particles on task=396  (slabs=4)
+16777216 particles on task=397  (slabs=4)
+16777216 particles on task=398  (slabs=4)
+16777216 particles on task=399  (slabs=4)
+16777216 particles on task=400  (slabs=4)
+16777216 particles on task=401  (slabs=4)
+16777216 particles on task=402  (slabs=4)
+16777216 particles on task=403  (slabs=4)
+16777216 particles on task=404  (slabs=4)
+16777216 particles on task=405  (slabs=4)
+16777216 particles on task=406  (slabs=4)
+16777216 particles on task=407  (slabs=4)
+16777216 particles on task=408  (slabs=4)
+16777216 particles on task=409  (slabs=4)
+16777216 particles on task=410  (slabs=4)
+16777216 particles on task=411  (slabs=4)
+16777216 particles on task=412  (slabs=4)
+16777216 particles on task=413  (slabs=4)
+16777216 particles on task=414  (slabs=4)
+16777216 particles on task=415  (slabs=4)
+16777216 particles on task=416  (slabs=4)
+16777216 particles on task=417  (slabs=4)
+16777216 particles on task=418  (slabs=4)
+16777216 particles on task=419  (slabs=4)
+16777216 particles on task=420  (slabs=4)
+16777216 particles on task=421  (slabs=4)
+16777216 particles on task=422  (slabs=4)
+16777216 particles on task=423  (slabs=4)
+16777216 particles on task=424  (slabs=4)
+16777216 particles on task=425  (slabs=4)
+16777216 particles on task=426  (slabs=4)
+16777216 particles on task=427  (slabs=4)
+16777216 particles on task=428  (slabs=4)
+16777216 particles on task=429  (slabs=4)
+16777216 particles on task=430  (slabs=4)
+16777216 particles on task=431  (slabs=4)
+16777216 particles on task=432  (slabs=4)
+16777216 particles on task=433  (slabs=4)
+16777216 particles on task=434  (slabs=4)
+16777216 particles on task=435  (slabs=4)
+16777216 particles on task=436  (slabs=4)
+16777216 particles on task=437  (slabs=4)
+16777216 particles on task=438  (slabs=4)
+16777216 particles on task=439  (slabs=4)
+16777216 particles on task=440  (slabs=4)
+16777216 particles on task=441  (slabs=4)
+16777216 particles on task=442  (slabs=4)
+16777216 particles on task=443  (slabs=4)
+16777216 particles on task=444  (slabs=4)
+16777216 particles on task=445  (slabs=4)
+16777216 particles on task=446  (slabs=4)
+16777216 particles on task=447  (slabs=4)
+16777216 particles on task=448  (slabs=4)
+16777216 particles on task=449  (slabs=4)
+16777216 particles on task=450  (slabs=4)
+16777216 particles on task=451  (slabs=4)
+16777216 particles on task=452  (slabs=4)
+16777216 particles on task=453  (slabs=4)
+16777216 particles on task=454  (slabs=4)
+16777216 particles on task=455  (slabs=4)
+16777216 particles on task=456  (slabs=4)
+16777216 particles on task=457  (slabs=4)
+16777216 particles on task=458  (slabs=4)
+16777216 particles on task=459  (slabs=4)
+16777216 particles on task=460  (slabs=4)
+16777216 particles on task=461  (slabs=4)
+16777216 particles on task=462  (slabs=4)
+16777216 particles on task=463  (slabs=4)
+16777216 particles on task=464  (slabs=4)
+16777216 particles on task=465  (slabs=4)
+16777216 particles on task=466  (slabs=4)
+16777216 particles on task=467  (slabs=4)
+16777216 particles on task=468  (slabs=4)
+16777216 particles on task=469  (slabs=4)
+16777216 particles on task=470  (slabs=4)
+16777216 particles on task=471  (slabs=4)
+16777216 particles on task=472  (slabs=4)
+16777216 particles on task=473  (slabs=4)
+16777216 particles on task=474  (slabs=4)
+16777216 particles on task=475  (slabs=4)
+16777216 particles on task=476  (slabs=4)
+16777216 particles on task=477  (slabs=4)
+16777216 particles on task=478  (slabs=4)
+16777216 particles on task=479  (slabs=4)
+16777216 particles on task=480  (slabs=4)
+16777216 particles on task=481  (slabs=4)
+16777216 particles on task=482  (slabs=4)
+16777216 particles on task=483  (slabs=4)
+16777216 particles on task=484  (slabs=4)
+16777216 particles on task=485  (slabs=4)
+16777216 particles on task=486  (slabs=4)
+16777216 particles on task=487  (slabs=4)
+16777216 particles on task=488  (slabs=4)
+16777216 particles on task=489  (slabs=4)
+16777216 particles on task=490  (slabs=4)
+16777216 particles on task=491  (slabs=4)
+16777216 particles on task=492  (slabs=4)
+16777216 particles on task=493  (slabs=4)
+16777216 particles on task=494  (slabs=4)
+16777216 particles on task=495  (slabs=4)
+16777216 particles on task=496  (slabs=4)
+16777216 particles on task=497  (slabs=4)
+16777216 particles on task=498  (slabs=4)
+16777216 particles on task=499  (slabs=4)
+16777216 particles on task=500  (slabs=4)
+16777216 particles on task=501  (slabs=4)
+16777216 particles on task=502  (slabs=4)
+16777216 particles on task=503  (slabs=4)
+16777216 particles on task=504  (slabs=4)
+16777216 particles on task=505  (slabs=4)
+16777216 particles on task=506  (slabs=4)
+16777216 particles on task=507  (slabs=4)
+16777216 particles on task=508  (slabs=4)
+16777216 particles on task=509  (slabs=4)
+16777216 particles on task=510  (slabs=4)
+16777216 particles on task=511  (slabs=4)
+
+Total number of particles  = 8589934592
+
+
+Maximum displacement: 147.291 kpc/h, in units of the part-spacing= 1.50826
+
+RMS displacement:     55.7512 kpc/h, in units of the part-spacing= 0.570892
+
+512 tasks writing initial conditions in 512 files... 
+done with writing initial conditions.
+
+IC's generated.
+
+Initial scale factor = 0.00415752
+SphereMode = 0
+
+Application 5283423 resources: utime ~46341s, stime ~1995s, Rss ~1539884, inblocks ~1042258, outblocks ~537519991

@@ -1,0 +1,5 @@
+- pklin_ds14_1.0.dat : is copy of the file "darkskysims-data/darkskysims-data_release-99a0e7445c96/ds14_a/dat/ds14_a_1.0000_pk.dat"
+which is assumed to be the linear power spectrum.
+
+- class.ini : copy of "darkskysims-data/darkskysims-data_release-99a0e7445c96/ds14_a/class.ini"
+which is assumed to be the cosmology

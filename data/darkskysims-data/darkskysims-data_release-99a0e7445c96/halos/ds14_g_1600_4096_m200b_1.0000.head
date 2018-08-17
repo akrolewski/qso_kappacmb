@@ -1,0 +1,31 @@
+# SDF 1.0
+parameter byteorder = 0x78563412;
+int64_t nhalo = 260448616;
+double BOX_SIZE = 1599.999878;
+double L0 = 1599.999878;
+double R0 = 799.999939;
+int offset_center = 1;double SCALE_NOW = 1.000000;
+double a = 1.000000;
+int do_periodic = 1;
+double overdensity = 200.000000;
+double redshift = 0.000000;
+double part_mass = 4.88089e+09;
+double particle_mass = 4.88089e+09;
+double Omega0_m = 0.295126;
+double Omega0_lambda = 0.704874;
+double h_100 = 0.688062;
+int so200b = 1;
+int rockstar_units = 1;
+char length_unit[] = "Mpc/h";
+char mass_unit[] = "Msun/h";
+char time_unit[] = "Gyr";
+char velocity_unit[] = "km/s";
+struct {
+    float x, y, z;
+    float vx, vy, vz;
+    float mvir, m200b, m200c, m500c, m2500c;
+    float vmax, spin, kin_to_pot;
+    int64_t id, pid;
+}[260448616];
+#
+# SDF-EOH

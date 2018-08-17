@@ -1,0 +1,5 @@
+Copyright (c) 2014 S. W. Skillman, M. S. Warren, M. J. Turk, R. H. Wechsler, D.
+E. Holz, and P. M.  Sutter.  This work is licensed under the Creative Commons
+Attribution 4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative
+Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

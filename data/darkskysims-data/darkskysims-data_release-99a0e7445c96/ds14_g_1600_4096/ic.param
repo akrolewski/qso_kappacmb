@@ -1,0 +1,31 @@
+% input file for 2LPTic from genctl version 2HOT_scripts-1.1.0-15-gaffe0e5
+Nmesh 4096
+Nsample 4096
+Box 1600000.000
+Omega 0.295126
+OmegaLambda 0.704874
+OmegaBaryon 0.0467643
+HubbleParam 0.688062
+Redshift 135.13
+Seed 95945
+NumFilesWrittenInParallel 2048
+FileBase ic
+FileWithInputSpectrum ds14_g_1600_4096.dat
+GlassFile glass1.dat
+GlassTileFac 4096
+OutputDir ds14_g_1600_4096
+CICAlpha 2
+SphereMode 0
+WhichSpectrum 2
+InputSpectrum_UnitLength_in_cm 3.085678e24
+UnitLength_in_cm 3.085678e21
+UnitMass_in_g 1.989e43
+UnitVelocity_in_cm_per_s 1.0e5
+%% Unused parameters
+OmegaDM_2ndSpecies 0
+PrimordialIndex 1.0
+Sigma8 0.0
+ShapeGamma 0.21
+WDM_On 0
+WDM_Vtherm_On 0
+WDM_PartMass_in_kev 10.0
